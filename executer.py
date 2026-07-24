@@ -18,7 +18,7 @@ command_output = commands[1].strip()
 with open("syntax.cfg") as file:
     syntax = file.read()
 
-with open("teste.tm") as file:
+with open("TM.tm") as file:
     for linha in file:
         linha = linha.strip()
 
