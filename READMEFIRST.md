@@ -1,7 +1,7 @@
 READ IT
 
 
-you first have to pick TM.tm and executer.py into the same paste,
+you first have to pick TM.tm and executer.py into the same folder,
 after, you need to go to the terminal, and digit: 
 cd ~/(place you have put executer.py and TM.tm)
 
